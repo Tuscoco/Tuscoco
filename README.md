@@ -1,4 +1,4 @@
-<img alt = "Imagem" width = "1000" src = "https://lh3.googleusercontent.com/pw/AP1GczNB7HPXLewXeo6o1HzzZicTwDFMM59zHI3zctq4y6b3i8xoSRv8aJxRJnsP9S1Swc6W29jWYrL-HUvowwFEds163_0ZRuSbVra8id-vjjkIowq3wqZZypeqSxgFvxjO06Mgclz7OPN_3SSevQyR9ijNOQ=w1024-h228-s-no-gm?authuser=0">
+<img alt = "Imagem" width = "1000" src = "https://lh3.googleusercontent.com/pw/AP1GczN5_0B-pT0lrpAM-xbOfcUHsvij2TrQW4duswZ9V9lFcXUca7wBDZi_F50TQ7QtUI5xdmXNhD0Uca1kgi1yc6f2gOqTE9n3nhO3Xzy3Y5QtRoJ0hyjyQZfCzBL3oBesTJGVARhC8Da_RIsFN6P4S2sN7w=w1024-h205-s-no-gm?authuser=0">
 
 ## Status
 ![Tuscoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuscoco&theme=jolly)
