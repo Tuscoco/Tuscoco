@@ -1,18 +1,51 @@
-<img alt = "Imagem" width = "1000" src = "https://lh3.googleusercontent.com/pw/AP1GczN5_0B-pT0lrpAM-xbOfcUHsvij2TrQW4duswZ9V9lFcXUca7wBDZi_F50TQ7QtUI5xdmXNhD0Uca1kgi1yc6f2gOqTE9n3nhO3Xzy3Y5QtRoJ0hyjyQZfCzBL3oBesTJGVARhC8Da_RIsFN6P4S2sN7w=w1024-h205-s-no-gm?authuser=0">
+<h1 align="center">Hi there ✌️, I'm Lucas</h1>
 
-## Status
-![Tuscoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuscoco&theme=jolly)
+###
 
-## Tecnologias <br> 
-<div style="display: inline_block"> 
-<img aling = "center" alt = c src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img aling = "center" alt = c++ src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img aling = "center" alt = c#  src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img aling = "center" alt = c#  src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<h4 align="center">I'm a first-year computer science student at the Pontifical Catholic University of Minas Gerais.</h4>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="45" height="30" alt="visualstudio logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
 </div>
 
-## Contatos <br> 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfernandesmarinho7@gmail.com)
+###
 
-## Social <br> 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.marinho_dm/)
+<div align="center">
+  <img height="200" src="https://sm.ign.com/ign_br/news/f/fallout-3-/fallout-3-broken-steel-train-is-actually-just-a-gi_y4nq.jpg"  />
+</div>
+
+###
+
+<h2 align="left">Languages ​​and tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tuscoco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tuscoco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Tuscoco/Tuscoco/output/snake.svg" alt="Snake animation" />
+
+###
