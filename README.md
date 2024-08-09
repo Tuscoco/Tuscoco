@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">I'm a first-year computer science student at the Pontifical Catholic University of Minas Gerais.</h4>
+<h4 align="center">I'm a computer science student at the Pontifical Catholic University of Minas Gerais.</h4>
 
 ###
 
