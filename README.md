@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -13,8 +11,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h4 align="center">Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação na PUC Minas, com um grande interesse em desenvolvimento de jogos. Embora eu ainda esteja aprendendo, estou profundamente comprometido em dominar as habilidades necessárias para criar experiências de jogo incríveis.</h4>
 
@@ -26,8 +22,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">🛠️ Habilidades Técnicas</h2>
 
 ###
@@ -35,8 +29,6 @@
 <h4 align="left">Linguagens de Programação:</h4>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
