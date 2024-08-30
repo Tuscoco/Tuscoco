@@ -21,11 +21,11 @@
 
 ###
 
-<h2 align="left">🛠️ Habilidades Técnicas</h2>
+<h2 align="left">🛠️ Technical Skills</h2>
 
 ###
 
-<h4 align="left">Linguagens de Programação:</h4>
+<h4 align="left">Programming Languages:</h4>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h4 align="left">Ferramentas e Plataformas</h4>
+<h4 align="left">Tools and Platforms:</h4>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<h2 align="left">📝 Experiência</h2>
+<h2 align="left">📝 Experience</h2>
 
 ###
 
