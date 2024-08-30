@@ -11,7 +11,7 @@
 
 ###
 
-<h4 align="center">Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação na PUC Minas, com um grande interesse em desenvolvimento de jogos. Embora eu ainda esteja aprendendo, estou profundamente comprometido em dominar as habilidades necessárias para criar experiências de jogo incríveis.</h4>
+<h4 align="center">Welcome to my GitHub profile! I'm a Computer Science student at PUC Minas, with a strong interest in game development. Although I'm still learning, I'm deeply committed to mastering as many skills as possible to create amazing gaming experiences.</h4>
 
 ###
 
@@ -61,15 +61,15 @@
 
 ###
 
-<h4 align="left">Estudos Acadêmicos: Estudando Ciência da Computação na PUC Minas, com foco em programação e game design.<br><br>Projetos Pessoais: Trabalho em projetos pessoais para aplicar conceitos aprendidos em sala de aula e explorar novas tecnologias.</h4>
+<h4 align="left">Academic Studies: Studying Computer Science at PUC Minas, focusing on programming and game design.<br><br>Personal Projects: Work on personal projects to apply concepts learned in class and explore new technologies.</h4>
 
 ###
 
-<h2 align="left">📚 Em Aprendizado</h2>
+<h2 align="left">📚 In Learning</h2>
 
 ###
 
-<h4 align="left">Desenvolvimento de Jogos: Godot Engine<br><br>Programação Avançada: Padrões de Design, Programação Orientada a Objetos</h4>
+<h4 align="left">Game Development: Godot Engine.<br><br>Advanced Programming: Design Patterns, Object-Oriented Programming.</h4>
 
 ###
 
