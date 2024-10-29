@@ -2,16 +2,21 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucas-fernandes-marinho-2a0831271/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
-  <a href="mailto:lucasfernandesmarinho7@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a>
-  <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/></a>
-  <a href="https://www.youtube.com/@TuscaDev" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/></a>
-</div>
+<p align="center">
+  <a href="mailto:lucasfernandesmarinho7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-fernandes-marinho-2a0831271/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+</p>
 
 ###
 
-<h4 align="center">Welcome to my GitHub profile! I'm a Computer Science student at PUC Minas, with a strong interest in game development. Although I'm still learning, I'm deeply committed to mastering as many skills as possible to create amazing gaming experiences.</h4>
+<h4 align="center">Welcome to my GitHub profile! I'm a Computer Science student at PUC Minas with a keen interest in game development and backend engineering. Currently, I'm building a solid foundation in backend development and APIs, while exploring skills that will eventually support my journey into game development. I'm excited to continue learning and developing a versatile skill set to create impactful digital experiences, whether in games or backend systems.</h4>
 
 ###
 
@@ -21,7 +26,7 @@
 
 ###
 
-<h2 align="left">🛠️ Technical Skills</h2>
+<h2 align="left">🛠️ Technologies:</h2>
 
 ###
 
@@ -29,31 +34,31 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp&theme=dark)](https://skillicons.dev)
 
 ###
 
-<h4 align="left">Tools and Platforms:</h4>
+<h4 align="left">Backend:</h4>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=postgres,maven&theme=dark)](https://skillicons.dev)
+
+###
+
+<h4 align="left">Learning:</h4>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=cs,bash,linux,gamemakerstudio,godot,unity&theme=dark)](https://skillicons.dev)
+
+###
+
+<h2 align="left">⚙️ Tools and Platforms:</h2>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,visualstudio,vscode&theme=dark)](https://skillicons.dev)
 
 ###
 
@@ -61,19 +66,11 @@
 
 ###
 
-<h4 align="left">Academic Studies: Studying Computer Science at PUC Minas, focusing on programming and game design.<br><br>Personal Projects: Work on personal projects to apply concepts learned in class and explore new technologies.</h4>
+<h4 align="left">Academic Studies: Studying Computer Science at PUC Minas, focusing on programming, backend and game design.<br><br>Personal Projects: Work on personal projects to apply concepts learned in class and explore new technologies.</h4>
 
 ###
 
-<h2 align="left">📚 In Learning</h2>
-
-###
-
-<h4 align="left">Game Development: Godot Engine.<br><br>Advanced Programming: Design Patterns, Object-Oriented Programming.</h4>
-
-###
-
-<h1 align="left"></h1>
+<h2 align="left">Github Stats:</h2>
 
 ###
 
