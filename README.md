@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="center">Welcome to my GitHub profile! I'm a Computer Science student at PUC Minas with a keen interest in game development and backend engineering. Currently, I'm building a solid foundation in backend development and APIs, while exploring skills that will eventually support my journey into game development. I'm excited to continue learning and developing a versatile skill set to create impactful digital experiences, whether in games or backend systems.</h4>
+<h4 align="center">Welcome to my GitHub profile! I'm a Computer Science student at PUC Minas, currently focused on strengthening my knowledge of Algorithms and Data Structures. My goal is to build a solid foundation in problem-solving and computational thinking, essential for software development and future game development projects. I'm always looking for new challenges to expand my skills and create impactful digital solutions.</h4>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c&theme=dark)](https://skillicons.dev)
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=cs,bash,linux,gamemakerstudio,godot,unity&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,bash,linux,godot,unity&theme=dark)](https://skillicons.dev)
 
 ###
 
